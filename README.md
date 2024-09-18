@@ -1,2 +1,2 @@
 # MADChat
-AI capable of solving reasoning tasks
+AI capable of solving reasoning tasks it has never seen before
